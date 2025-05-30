@@ -1,6 +1,6 @@
 # Espaço Festa - Landing Page
 
-Landing page institucional desenvolvida para o salão de eventos **Espaço Festa**, localizado em Mafra/SC. Esta página tem como objetivo apresentar o espaço, exibir fotos reais do ambiente, permitir o contato direto via WhatsApp e facilitar o acesso à localização via Google Maps.
+Landing page institucional desenvolvida para o salão de eventos **Espaço Festa**, localizado em Rio Negro-PR. Esta página tem como objetivo apresentar o espaço, exibir fotos reais do ambiente, permitir o contato direto via WhatsApp e facilitar o acesso à localização via Google Maps.
 
 ---
 
