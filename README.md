@@ -6,7 +6,7 @@ Landing page institucional desenvolvida para o salão de eventos **Espaço Festa
 
 ## 📸 Demonstração
 
-![Espaço Festa Screenshot](./assets/images/galeria1.jpg)
+![Espaço Festa Screenshot](./assets/images/galeria4.jpg)
 
 ---
 
@@ -33,7 +33,6 @@ espacofesta-landing/
 ├── js/
 └── main.js
 
-
 ---
 
 ## 🔗 Funcionalidades
@@ -48,7 +47,7 @@ espacofesta-landing/
 
 ## 📱 Acesse
 
-> *Você pode hospedar este projeto gratuitamente no [Vercel](https://vercel.com) ou [Netlify](https://netlify.com) e usar como portfólio ou página oficial do espaço.*
+> _Você pode hospedar este projeto gratuitamente no [Vercel](https://vercel.com) ou [Netlify](https://netlify.com) e usar como portfólio ou página oficial do espaço._
 
 ---
 
@@ -56,7 +55,7 @@ espacofesta-landing/
 
 **Maciel Oliveira Costa**  
 Desenvolvedor Front-End e Administrador  
-📧 contato: maciel@email.com *(substituir)*  
+📧 contato: maciel@email.com _(substituir)_  
 📱 WhatsApp: [clique aqui](https://wa.me/5547999999999)
 
 ---
