@@ -48,7 +48,7 @@ espacofesta-landing/
 
 ## 📱 Acesse
 
-> _Você pode hospedar este projeto gratuitamente no [Vercel](https://vercel.com) ou [Netlify](https://netlify.com) e usar como portfólio ou página oficial do espaço._
+> _Hospedagem deste projeto feita no [Vercel](https://vercel.com)._
 
 ---
 
