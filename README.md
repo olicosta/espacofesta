@@ -7,6 +7,7 @@ Landing page institucional desenvolvida para o salão de eventos **Espaço Festa
 ## 📸 Demonstração
 
 ![Espaço Festa Screenshot](./assets/images/galeria4.png)
+![Espaço Festa Screenshot](./assets/images/galeria5.png)
 
 ---
 
