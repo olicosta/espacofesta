@@ -55,8 +55,8 @@ espacofesta-landing/
 
 **Maciel Oliveira Costa**  
 Desenvolvedor Front-End e Administrador  
-📧 contato: maciel@email.com _(substituir)_  
-📱 WhatsApp: [clique aqui](https://wa.me/5547999999999)
+📧 contato: maciel.o.costa@hotmail.com
+📱 WhatsApp: [clique aqui](https://wa.me/5547999914074)
 
 ---
 
